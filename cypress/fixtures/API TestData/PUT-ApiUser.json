@@ -1,0 +1,11 @@
+{
+"email":"auto@gmail.com",
+"username":"auto",
+"host":"https://api.realworld.io",
+"resoursepath":"/api/user/",
+"expectedStatusCode":200,
+"invalidResourcepath":"/api/use/",
+"StatusCode404":404,
+"StatusCode422":422,
+"emptyUsername":""
+}

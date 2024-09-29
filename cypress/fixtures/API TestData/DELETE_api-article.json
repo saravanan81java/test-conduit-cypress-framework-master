@@ -1,0 +1,8 @@
+{
+    "host":"https://api.realworld.io",
+    "resoursepath":"/api/articles/",
+    "expectedStatusCode":204,
+    "invalidResourcePath":"/api/article",
+    "StatusCode404":404,
+    "StatusCode401":401
+}

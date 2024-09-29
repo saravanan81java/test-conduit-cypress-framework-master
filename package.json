@@ -1,0 +1,27 @@
+{
+  "name": "conduit_cypressframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunarumugam6/Conduit_CypressFramework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunarumugam6/Conduit_CypressFramework/issues"
+  },
+  "homepage": "https://github.com/arunarumugam6/Conduit_CypressFramework#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.12.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.0"
+  }
+}

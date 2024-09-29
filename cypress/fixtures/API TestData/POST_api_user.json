@@ -1,0 +1,12 @@
+{
+    "username":"auto",
+    "password":"Pass7word1",
+    "successStatusCode":200,
+    "resourcepath":"api/users",
+    "host":"https://api.realworld.io/",
+    "invalidResourcePath":"api/user",
+    "StatusCode404":404,
+    "StatusCode422":422,
+    "emptyPassword":""
+
+}

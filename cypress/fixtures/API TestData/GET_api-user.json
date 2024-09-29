@@ -1,0 +1,12 @@
+{
+    "email":"arun03@gmail.com",
+    "password":"Pass7word1",
+    "successStatusCode":200,
+    "resourcepath":"api/user",
+    "host":"https://api.realworld.io/",
+    "invalidResourcePath":"api/use",
+    "StatusCode404":404,
+    "StatusCode422":422,
+    "emptyPassword":""
+
+}
